@@ -1,5 +1,5 @@
                                                                        CERTIFICATES
-Here I upload all my achivement(Certificates) which I have achived
+Here I uploaded all my achivement(Certificates) which I have achived
 forage.net
 HackerRank
 coursera
